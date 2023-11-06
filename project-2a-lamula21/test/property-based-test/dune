@@ -1,0 +1,3 @@
+(tests
+ (names pbt)
+ (libraries project2a oUnit qcheck))
